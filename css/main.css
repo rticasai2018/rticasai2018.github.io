@@ -731,14 +731,14 @@ nav {
 .logo-link,
 .tagline,
 .call-action-area .price {
-  color: #fff;
+  color: #fffdf9;
   text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .tagline {
   font-weight: normal;
 }
 .call-action-area .price {
-  color: #fddd52;
+  color: #fffdf9;
 }
 .call-action-area .call-action-link,
 .btn {
