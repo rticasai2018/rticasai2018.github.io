@@ -654,6 +654,12 @@ nav {
   .speakers-bio {
     display: none;
   }
+  .schedule-tbl .schedule-description {
+    display: none;
+  }
+  .schedule-tbl .schedule-slot {
+    width: auto;
+  }
 }
 @media only screen and (max-width: 321px) {
   .logo-name {
